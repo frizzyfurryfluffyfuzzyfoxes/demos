@@ -1,2 +1,3 @@
-# demos
-demo storage space
+# Fab5 competitive demos
+
+This repository serves as the primary storage space for our demos.
